@@ -1,0 +1,594 @@
+@media (max-width: 1199.98px) {
+    .about-Dappy-description {
+        padding: 25px 40px 40px 40px;
+    }
+
+    footer {
+        margin-bottom: 250px;
+    }
+    footer{
+        margin-bottom: 494px;
+    }
+}
+
+@media (max-width: 991.98px) {
+    html {
+        font-size: 9px;
+    }
+
+    .about-Dappy-description {
+        padding: 30px 40px 40px 40px;
+    }
+
+    #hero {
+        margin-top: 50px;
+    }
+
+    .icons2 {
+        display: none;
+    }
+
+    .menu{
+        display: none;
+    }
+    .mobile-btn{
+        display: flex;
+        z-index: 10;
+    }
+    .show-menu{
+        padding: 0;
+        position: fixed;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        height: 50%;
+        background: linear-gradient(0deg, rgba(15, 72, 152, 0.6), rgba(15, 72, 152, 0.6));
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        z-index: 9;
+        border-top-left-radius: 50px;
+        border-bottom-left-radius: 50px;
+    }
+    .nav-list-item a{
+        padding: 10px;
+        font-size: 20px;
+        font-weight: 600;
+        background-color: #005FA3;
+    }
+    .nav-list-item{
+        margin: 10px;
+    }
+    .svg svg {
+        width: 470px;
+    }
+}
+
+@media (max-width: 768.98px) {
+    html {
+        font-size: 8px;
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    .about-Dappy-description {
+        padding: 22px 40px 40px 40px;
+    }
+
+    .row {
+        display: flex;
+        flex-wrap: wrap;
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    #hero {
+        height: 100vh;
+        position: relative;
+        margin-bottom: -100px;
+    }
+
+    .hero-title {
+        text-align: center;
+        position: relative;
+    }
+
+    .hero-description {
+        text-align: center;
+        margin-left: 48px;
+    }
+    .hero a{
+        margin-left: 21px;
+    }
+
+    .col-5 {
+        width: 100%;
+    }
+
+    .hero {
+        width: 100%;
+        position: absolute;
+        left: 50%;
+        margin-left: -120px;
+        margin-top: 260px;
+    }
+
+    .col-7 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .col-7 .svg {
+        margin: auto;
+    }
+
+    .col-7 .svg {
+        position: absolute;
+        margin: auto;
+    }
+
+    .col-6 {
+        width: 100%;
+    }
+
+    .post-items1 {
+        margin-left: 4px;
+    }
+
+    .post-items2 {
+        margin-left: -1px;
+        margin-top: 30px;
+    }
+
+    .footer {
+        position: relative;
+    }
+
+    .about {
+        position: relative;
+        left: 0;
+        top: -125px;
+    }
+
+    .contact {
+        position: absolute;
+        left: 100px;
+        top: -125px;
+
+    }
+
+    .newsletter {
+        position: absolute;
+        left: -607px;
+        top: 40px;
+    }
+
+    .newsletter p {
+        position: relative;
+    }
+
+    .newsletter-description{
+        position: relative !important;
+        margin-top: -35px;
+    }
+    form{
+        margin-top: -5px;
+    }
+    form button {
+        width: 106px;
+        height: 39px;
+        position: relative;
+        top: -39px;
+        left: 218px;
+
+    }
+    .hero-title {
+        margin-top: 234px;
+        margin-left: -474px;
+    }
+    .hero-description {
+        margin-left: -474px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    html {
+        font-size: 7px;
+        font-family: 'Montserrat', sans-serif;
+    }
+
+    .about-Dappy-description {
+        padding: 22px 40px 40px 40px;
+    }
+
+    .col-7 .svg {
+        margin: auto;
+    }
+
+    .col-7 .svg {
+        width: 348px !important;
+        margin: auto;
+        position: absolute;
+        left: 110px;
+    }
+
+    .col-7 svg {
+        width: 348px;
+        height: 236px;
+
+    }
+
+
+    .col-5 {
+        margin-top: -200px;
+    }
+
+    .post-items1 {
+        margin-left: 4px;
+    }
+
+    .post-items2 {
+        margin-left: -1px;
+        margin-top: 30px;
+    }
+
+    #hero {
+        height: 100vh;
+    }
+
+    .hero-title {
+        text-align: center;
+        margin-left: -10px;
+        margin-top: 25px;
+    }
+
+    .hero-description {
+        text-align: center;
+        margin-left: 40px;
+
+    }
+
+    #hero a {
+        margin-left: 10px;
+        margin-top: -10px;
+    }
+
+    .about-Dappy-description {
+        padding: 53px 20px 0 20px;
+    }
+
+    .Free_and_open-description {
+        padding: 0 50px 0 0;
+        position: absolute;
+        left: 20px;
+    }
+
+    .Free_and_open-title {
+        position: absolute;
+        left: 20px;
+    }
+
+    .Free_and_open img {
+        width: 283px;
+        height: 123px;
+    }
+
+
+    .title {
+        position: absolute;
+        left: 20px;
+    }
+
+    .line-1 img {
+        position: absolute;
+        left: 20px;
+    }
+
+    .line-2 img {
+        position: absolute;
+        left: 20px;
+    }
+
+    .line-3 img {
+        position: absolute;
+        left: 20px;
+    }
+
+    .line-4 img {
+        position: absolute;
+        left: 20px;
+    }
+
+    .line-5 img {
+        position: absolute;
+        left: 20px;
+    }
+
+    .line-1 .Roadmap-title-1 .Roadmap-description-1 {
+        position: absolute;
+        left: 20px;
+    }
+
+    .line-1 .Roadmap-title-1 .Roadmap-description-2 {
+        position: absolute;
+        left: 166px;
+    }
+
+    .line-1 .Roadmap-title-1 .Roadmap-description-3 {
+        position: absolute;
+        left: 312px;
+    }
+
+    .line-2 .Roadmap-title-2 .Roadmap-description-1 {
+        position: absolute;
+        left: 20px;
+    }
+
+    .line-2 .Roadmap-title-2 .Roadmap-description-2 {
+        position: absolute;
+        left: 166px;
+    }
+
+    .line-2 .Roadmap-title-2 .Roadmap-description-3 {
+        position: absolute;
+        left: 312px;
+    }
+
+    .line-3 .Roadmap-title-3 .Roadmap-description-1 {
+        position: absolute;
+        left: 20px;
+    }
+
+    .line-3 .Roadmap-title-3 .Roadmap-description-2 {
+        position: absolute;
+        left: 166px;
+    }
+
+    .line-3 .Roadmap-title-3 .Roadmap-description-3 {
+        position: absolute;
+        left: 312px;
+    }
+
+    .line-4 .Roadmap-title-4 .Roadmap-description-1 {
+        position: absolute;
+        left: 20px;
+    }
+
+    .line-4 .Roadmap-title-4 .Roadmap-description-2 {
+        position: absolute;
+        left: 166px;
+    }
+
+    .line-4 .Roadmap-title-4 .Roadmap-description-3 {
+        position: absolute;
+        left: 312px;
+    }
+
+    .line-5 .Roadmap-title-5 .Roadmap-description-1 {
+        position: absolute;
+        left: 20px;
+    }
+
+    .line-5 .Roadmap-title-5 .Roadmap-description-2 {
+        position: absolute;
+        left: 166px;
+    }
+
+    .line-5 .Roadmap-title-5 .Roadmap-description-3 {
+        position: absolute;
+        left: 312px;
+    }
+
+    .line-5-img-1 img {
+        position: absolute;
+        left: 312px;
+    }
+
+    .line-5-img-2 img {
+        position: absolute;
+        left: 320px;
+    }
+
+    .line-5-img-3 img {
+        position: absolute;
+        left: 328px;
+    }
+
+    .Multi-currencies-description {
+        padding: 0 20px 0 0;
+    }
+
+    .Multi-currencies img {
+        width: 305px;
+        height: 165px;
+
+    }
+
+    .Tokens img {
+        width: 335px;
+        height: 120px;
+    }
+
+    .Tokens-description {
+        padding: 0 20px 0 0;
+
+    }
+
+    .Exchange img {
+        width: 316px;
+        height: 183px;
+    }
+
+    .Exchange-description {
+        padding: 0 20px 0 0;
+
+    }
+
+    .about {
+        position: relative;
+        top: -145px;
+        left: -20px;
+    }
+
+    .contact {
+        position: relative;
+        top: -12px;
+        left: -316px;
+    }
+
+    .newsletter {
+        position: relative;
+        top: 100px;
+        left: -627px;
+    }
+
+
+    form input {
+        width: 218px;
+        height: 39px;
+
+        padding-left: 14px;
+        border: 1px solid #82899B;
+        border-radius: 6px 0 0 6px;
+    }
+
+    form button {
+        width: 106px;
+        height: 39px;
+        position: relative;
+        top: -39px;
+        left: 218px;
+
+    }
+
+    .newsletter p {
+        position: relative;
+
+    }
+
+    .newsletter-description {
+        position: relative !important;
+        margin-top: -60px;
+    }
+
+}
+
+@media (max-width: 415.98px) {
+    .col-7 {
+        margin-top: 30px;
+    }
+
+    .col-7 .svg {
+        margin: auto;
+    }
+
+    .col-7 .svg {
+        position: absolute;
+        left: 7%;
+
+        margin: auto;
+    }
+
+    .col-5 {
+        margin-top: -110px;
+    }
+    .hero a{
+        margin: auto;
+    }
+    .hero-title{
+        margin-left: -16px;
+
+    }
+    .hero-description{
+        margin-left: 34px;
+    }
+    .hero-title {
+        margin-top: 203px;
+        margin-left: -174px;
+    }
+    .hero-description {
+        margin-left: -165px;
+    }
+}
+
+@media (max-width: 375.98px) {
+    .col-7 {
+        margin-top: 20px;
+    }
+
+    .col-7 .svg {
+        margin: auto;
+    }
+
+    .col-7 .svg {
+        position: absolute;
+        left: 3%;
+        margin: auto;
+    }
+
+    .col-5 {
+        margin-top: -200px;
+    }
+    .hero-title {
+        margin-top: 234px;
+        margin-left: -158px;
+    }
+}
+
+@media (max-width: 360.98px) {
+    .col-7 {
+        margin-top: 0;
+    }
+
+    .col-7 .svg {
+        margin: auto;
+    }
+
+    .col-7 .svg {
+        position: absolute;
+        left: 3%;
+        margin: auto;
+    }
+
+    .col-5 {
+        margin-top: -200px;
+    }
+    .hero-title {
+        margin-top: 280px;
+        margin-left: -120px;
+    }
+    .hero-description {
+        margin-left: -123px;
+    }
+}
+
+@media (max-width: 320.98px) {
+    .col-7 {
+        margin-top: -15px;
+    }
+
+    .col-7 .svg {
+        margin: auto;
+    }
+
+    .col-7 .svg {
+        position: absolute;
+        left: -5%;
+        margin: auto;
+    }
+
+    .col-7 svg {
+        width: 296px;
+        height: 201px;
+    }
+
+    .col-5 {
+        margin-top: -285px;
+    }
+    .hero-description{
+        margin-left: -73px;
+    }
+    .hero-title {
+        margin-top: 280px;
+        margin-left: -70px;
+    }
+}

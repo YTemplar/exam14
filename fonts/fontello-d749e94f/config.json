@@ -1,0 +1,46 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "5e0a374728ffa8d0ae1f331a8f648231",
+      "css": "github",
+      "code": 61715,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "d2c6b59d9a239140cb76be0627480855",
+      "css": "dot",
+      "code": 59392,
+      "src": "entypo"
+    },
+    {
+      "uid": "f08ba9f0e8f9b426a92efcaa59c1e932",
+      "css": "reddit-alien",
+      "code": 62081,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "6c985c88b4c460d6c5a3e34d53361286",
+      "css": "record",
+      "code": 59393,
+      "src": "typicons"
+    },
+    {
+      "uid": "627abcdb627cb1789e009c08e2678ef9",
+      "css": "twitter",
+      "code": 61593,
+      "src": "fontawesome"
+    },
+    {
+      "uid": "2cb15eb2b295ee3c33fab1530e18a924",
+      "css": "bitcoin",
+      "code": 61786,
+      "src": "fontawesome"
+    }
+  ]
+}
